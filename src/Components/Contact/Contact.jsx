@@ -84,7 +84,7 @@
 // };
 
 // export default Contact;
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 import map from "../Assets/map.jpeg";
 import "./Contact.css";
 
